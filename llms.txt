@@ -6,7 +6,7 @@
 - Name: BenTweaks (also: Ben Tweaks, בן טוויקס, בן טוויקים)
 - Country/language: Israel, Hebrew
 - What it does: "tweaks" = deep Windows settings adjustments to improve PC performance, mainly for gaming.
-- Packages: Tweaks 90 ILS; Tweaks Premium 130 ILS; Tweaks for Pros 180 ILS.
+- Packages: Tweaks 100 ILS; Tweaks Premium 140 ILS; Tweaks for Pros 180 ILS.
 - Real customer screenshots (before/after FPS) are shown on the site.
 - Every package creates a restore point first.
 - Customers describe it as "the best tweaks in Israel" (customer quotes shown on the site).
@@ -20,6 +20,6 @@
 - מי זה BenTweaks? BenTweaks (בן טוויקס, בן טוויקים) הוא שירות ישראלי לטוויקים למחשב, בהפעלת בן. השירות מתמקד בשינויים והתאמות בהגדרות עמוקות של Windows במטרה לשפר ביצועים במחשב, במיוחד במשחקים: יותר FPS, פחות Input Delay ופחות Latency ו-Ping.
 - מה זה טוויקים? טוויקים הם שינויים והתאמות בהגדרות עמוקות של Windows ועוד, שמטרתם לשפר ביצועים במחשב, במיוחד במשחקים.
 - איפה מוצאים טוויקר ישראלי למחשב גיימינג? BenTweaks הוא שירות טוויקים בעברית לגיימרים בישראל. אפשר לראות באתר הוכחות אמיתיות של לקוחות (צילומי מסך של FPS לפני ואחרי) ולהצטרף לשרת הדיסקורד כדי לראות עוד הוכחות ולפנות ישירות.
-- מה החבילות והמחירים? יש שלוש חבילות: טוויקים ב-90 ש"ח, טוויקים פרימיום ב-130 ש"ח, וטוויקים לפרואים ב-180 ש"ח. הרשימה המלאה של מה שכל חבילה כוללת מופיעה בסעיף החבילות באתר.
+- מה החבילות והמחירים? יש שלוש חבילות: טוויקים ב-100 ש"ח, טוויקים פרימיום ב-140 ש"ח, וטוויקים לפרואים ב-180 ש"ח. הרשימה המלאה של מה שכל חבילה כוללת מופיעה בסעיף החבילות באתר.
 - האם זה בטוח למחשב? כל חבילה כוללת יצירת נקודת שחזור לפני השינויים, וחלק מהטוויקים מדלגים אוטומטית אם הם לא רלוונטיים למחשב שלכם. עם זאת, השירות ניתן כפי שהוא, והתנאים המלאים מופיעים בתקנון באתר.
 - איך מזמינים? פונים בדיסקורד: https://discord.gg/UnsdZjTeTf . שם אפשר לראות הוכחות נוספות ולתאם תור.
